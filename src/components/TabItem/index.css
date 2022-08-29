@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.TabItem_card {
+  list-style: none;
+  /* display: flex;
+  flex-direction: row;
+  margin-top: 7px; */
+}
+.TabItem_button {
+  margin-right: 35px;
+  font-size: 13px;
+  color: #7b8794;
+  border: none;
+  background-color: transparent;
+  font-weight: bold;
+}
+.hr_line {
+  color: red;
+  border: 2px solid black;
+  width: 30%;
+  /* margin-bottom: 19px; */
+}
+.active_btn {
+  border-bottom: 2px dotted rgb(98, 116, 221);
+  color: blue;
+}

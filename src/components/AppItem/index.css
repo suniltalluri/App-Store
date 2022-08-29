@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.appItem_container {
+  list-style: none;
+}
+.app_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  margin-right: 50px;
+  background-color: rgb(240, 242, 245);
+  padding: 12px;
+  width: 100px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 9px rgb(156, 188, 243);
+}
+.App_img {
+  height: 50px;
+}
+.appName {
+  font-size: 12px;
+}
